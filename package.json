@@ -20,7 +20,7 @@
   "homepage": "https://github.com/Agreal/demo-ts#readme",
   "devDependencies": {
     "rollup": "^1.6.0",
-    "rollup-plugin-typescript": "^1.0.0",
+    "rollup-plugin-typescript2": "^0.20.1",
     "tslib": "^1.9.3",
     "tslint": "^5.14.0",
     "typescript": "^3.3.3333"
