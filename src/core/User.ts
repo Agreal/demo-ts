@@ -1,10 +1,16 @@
+/**
+ * User class
+ */
 export class User {
-  private name: string;
+  name: string;
 
   constructor(name: string) {
     this.name = name;
   }
 
+  /**
+   * say
+   */
   public say(): void {
     console.log(this.name)
   }
